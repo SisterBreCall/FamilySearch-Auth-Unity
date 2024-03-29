@@ -19,6 +19,6 @@
 1. Under Buld Profiles, under Platforms click Web, and click Switch Platform
 2. Click Build
 3. Set build directory to where you want the web build to go.
-4. Modify index.html in build directory to add variables and function as shown with comments at (https://github.com/SisterBreCall/FamilySearch-Auth/blob/main/index.html)
+4. Modify index.html in build directory to add variables and function as shown with comments at (https://github.com/SisterBreCall/FamilySearch-Auth-Unity/blob/main/index.html)
 5. Upload build directory to web server directory.
 6. Make sure callback.html is in location for redirect url set by FamilySearch.
